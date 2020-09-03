@@ -1,4 +1,4 @@
-# fitness-app
+# fit party
 
 To set up your dev environment: https://reactnative.dev/docs/environment-setup
 
